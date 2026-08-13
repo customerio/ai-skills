@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deploy Command Planner"
+  short_description: "Plan PR deploy commands and service scope"
+  default_prompt: "Use $deploy-command to determine the services affected by this PR and produce the exact deploy comment."
